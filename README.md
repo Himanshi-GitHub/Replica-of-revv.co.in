@@ -1,2 +1,2 @@
-# Replica-of-revv.co.in
-Assignment of Seekify
+# Assignment of Seekify
+Replica of revv.co.in
